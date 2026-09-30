@@ -8,7 +8,7 @@ I build machine-learning systems, compare models through reproducible experiment
 
 ## What I'm working on
 
-- **Medical-image classification research:** comparing ResNet50, DenseNet121, and other CNN architectures on the **ISIC 2019** skin-lesion dataset; studying training from scratch, transfer learning, fine-tuning, augmentation, and evaluation across classes. *Research project in progress; repository to be published.*
+- **[ResNet50 vs DenseNet121 — ISIC 2019](https://github.com/Manan-Paliwal/resnet50-densenet121-isic2019):** published notebooks and results comparing training from scratch with transfer learning and fine-tuning for eight-class skin-lesion classification. *Research experiments continue.*
 - **Shadow Trace:** a **Mule Account Detection & Money-Hopping Risk System** combining supervised learning and anomaly detection for transaction-risk analysis. *Repository to be published.*
 - **Vision-language models:** learning multimodal architectures, image-text alignment, and evaluation methods as a foundation for future research.
 
@@ -16,13 +16,14 @@ I build machine-learning systems, compare models through reproducible experiment
 
 | Project | What it demonstrates | Stack |
 | :-- | :-- | :-- |
+| [**ResNet50 vs DenseNet121 — ISIC 2019**](https://github.com/Manan-Paliwal/resnet50-densenet121-isic2019) | Research experiments comparing CNN backbones, training strategies, and per-class evaluation | PyTorch, ResNet50, DenseNet121 |
 | [**Jaipur Extreme Temperature Modeling**](https://github.com/Manan-Paliwal/jaipur-extreme-temperature-m) | Time-aware, next-day temperature prediction; feature engineering, model comparison, and ensemble evaluation | Python, Pandas, scikit-learn |
 | [**Telco Customer Churn Prediction**](https://github.com/Manan-Paliwal/telco-customer-churn-prediction) | End-to-end classification pipeline, evaluation, and business interpretation | Python, scikit-learn |
 | [**Movie Recommendation System**](https://github.com/Manan-Paliwal/04-AI-Based-Recommendation-System) | Content-based recommendations using genre vectors and cosine similarity | Python, Pandas, scikit-learn |
 | [**Customer Segmentation**](https://github.com/Manan-Paliwal/03-Customer-Segmentation-Dashboard) | Unsupervised clustering and exploratory customer analysis | Python, K-Means |
 | [**House Price Prediction**](https://github.com/Manan-Paliwal/01-House-Price-Prediction) | Regression baseline, data cleaning, and feature preparation | Python, scikit-learn |
 
-> The repositories above are public. My larger computer-vision and financial-risk projects are being prepared for publication; I will link their code and experimental results here when available.
+> The computer-vision research repository is now public. Shadow Trace's repository will be linked when it is ready for publication.
 
 ## Technical toolkit
 
